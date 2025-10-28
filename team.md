@@ -1,5 +1,5 @@
 # Informacje o członku zespołu
-Imię: Bartosz
-Nazwisko: Jaje
-Ulubiona technologia: Godot 4
+Imię:Filip
+Nazwisko:Gołyski
+Ulubiona technologia:
 
