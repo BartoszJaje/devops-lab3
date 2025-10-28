@@ -1,4 +1,5 @@
 # Informacje o członku zespołu
-Imię:
-Nazwisko:
+Imię:Filip
+Nazwisko:Gołyski
 Ulubiona technologia:
+
